@@ -1,0 +1,826 @@
+location,country,gender,age,month
+"Shenzhen, Guangdong",China,male,66.0,1
+Shanghai,China,female,56.0,1
+Zhejiang,China,male,46.0,1
+Tianjin,China,female,60.0,1
+Tianjin,China,male,58.0,1
+Chongqing,China,female,44.0,1
+Sichuan,China,male,34.0,1
+Beijing,China,male,37.0,1
+Beijing,China,male,39.0,1
+Beijing,China,male,56.0,1
+Beijing,China,female,18.0,1
+Beijing,China,female,32.0,1
+Shandong,China,male,37.0,1
+Yunnan,China,male,51.0,1
+Sichuan,China,male,57.0,1
+Jiangxi,China,male,56.0,1
+Jiangxi,China,male,50.0,1
+Macau,China,female,52.0,1
+Liaoning,China,male,33.0,1
+Liaoning,China,male,40.0,1
+Fujian,China,male,70.0,1
+Guizhou,China,male,51.0,1
+Sichuan,China,female,28.0,1
+Sichuan,China,male,37.0,1
+Sichuan,China,male,19.0,1
+Ningxia,China,male,29.0,1
+Guangxi,China,female,66.0,1
+Guangxi,China,male,46.0,1
+Henan,China,female,32.0,1
+Henan,China,male,28.0,1
+Henan,China,male,55.0,1
+Henan,China,male,68.0,1
+Shandong,China,male,38.0,1
+Hebei,China,male,72.0,1
+Beijing,China,male,45.0,1
+Beijing,China,male,42.0,1
+Beijing,China,female,33.0,1
+Beijing,China,female,33.0,1
+Jiangsu,China,male,37.0,1
+Heilongjiang,China,male,69.0,1
+Guangxi,China,male,63.0,1
+Guangxi,China,female,62.0,1
+Guangxi,China,male,49.0,1
+Sichuan,China,male,50.0,1
+Sichuan,China,male,48.0,1
+Sichuan,China,male,36.0,1
+Jilin,China,female,36.0,1
+"Wuhan, Hubei",China,male,61.0,1
+"Wuhan, Hubei",China,male,69.0,1
+"Wuhan, Hubei",China,male,89.0,1
+"Wuhan, Hubei",China,male,89.0,1
+"Wuhan, Hubei",China,male,66.0,1
+"Wuhan, Hubei",China,male,75.0,1
+"Wuhan, Hubei",China,female,48.0,1
+"Wuhan, Hubei",China,male,82.0,1
+"Wuhan, Hubei",China,male,66.0,1
+"Wuhan, Hubei",China,male,81.0,1
+"Wuhan, Hubei",China,female,82.0,1
+"Wuhan, Hubei",China,male,65.0,1
+"Wuhan, Hubei",China,female,80.0,1
+"Wuhan, Hubei",China,male,53.0,1
+"Wuhan, Hubei",China,male,86.0,1
+"Wuhan, Hubei",China,female,70.0,1
+"Wuhan, Hubei",China,male,84.0,1
+Liaoning,China,female,50.0,1
+Hunan,China,male,40.0,1
+Hunan,China,male,45.0,1
+Hunan,China,female,66.0,1
+Hunan,China,male,59.0,1
+Hunan,China,female,23.0,1
+Guizhou,China,female,50.0,1
+Gansu,China,male,43.0,1
+Heilongjiang,China,male,49.0,1
+Shanxi (陕西),China,male,42.0,1
+Shanxi (陕西),China,female,32.0,1
+Shanxi (陕西),China,male,22.0,1
+Xinjiang,China,male,47.0,1
+Xinjiang,China,male,52.0,1
+Yunnan,China,male,53.0,1
+Tianjin,China,male,46.0,1
+Hubei,China,female,85.0,1
+Hubei,China,female,69.0,1
+Hubei,China,male,36.0,1
+Hubei,China,male,73.0,1
+Hubei,China,female,70.0,1
+Hubei,China,male,81.0,1
+Hubei,China,female,65.0,1
+Liaoning,China,male,42.0,1
+Inner Mongolia,China,male,30.0,1
+Tianjin,China,female,29.0,1
+Shaanxi,China,male,49.0,1
+Shaanxi,China,male,23.0,1
+Shanghai,China,female,56.0,1
+Tianjin,China,male,39.0,1
+Yunnan,China,female,39.0,1
+Yunnan,China,female,34.0,1
+Yunnan,China,male,49.0,1
+"Wuhan, Hubei",China,male,70.0,1
+"Wuhan, Hubei",China,female,76.0,1
+"Wuhan, Hubei",China,male,72.0,1
+"Wuhan, Hubei",China,male,79.0,1
+"Wuhan, Hubei",China,male,55.0,1
+"Wuhan, Hubei",China,male,87.0,1
+"Wuhan, Hubei",China,female,66.0,1
+"Wuhan, Hubei",China,male,58.0,1
+"Wuhan, Hubei",China,male,66.0,1
+"Wuhan, Hubei",China,male,78.0,1
+"Wuhan, Hubei",China,male,67.0,1
+"Wuhan, Hubei",China,male,65.0,1
+"Wuhan, Hubei",China,male,58.0,1
+"Wuhan, Hubei",China,female,67.0,1
+"Wuhan, Hubei",China,female,82.0,1
+"Hechi, Guangxi",China,female,49.0,1
+"Hechi, Guangxi",China,female,2.0,1
+Tianjin,China,female,59.0,1
+Tianjin,China,male,57.0,1
+Tianjin,China,female,68.0,1
+Tianjin,China,male,40.0,1
+Tianjin,China,male,46.0,1
+Tianjin,China,male,56.0,1
+Tianjin,China,female,29.0,1
+Tianjin,China,male,29.0,1
+Tianjin,China,male,57.0,1
+Tianjin,China,male,30.0,1
+Gansu,China,female,33.0,1
+Gansu,China,female,20.0,1
+Shaanxi,China,female,24.0,1
+Shaanxi,China,male,28.0,1
+Shaanxi,China,male,41.0,1
+Shaanxi,China,male,46.0,1
+Shaanxi,China,female,45.0,1
+Shaanxi,China,female,9.0,1
+Shaanxi,China,male,40.0,1
+Shaanxi,China,male,28.0,1
+Shaanxi,China,male,27.0,1
+Shaanxi,China,male,15.0,1
+Yunnan,China,female,42.0,1
+Yunnan,China,male,24.0,1
+Yunnan,China,female,32.0,1
+Yunnan,China,male,34.0,1
+Yunnan,China,male,63.0,1
+Yunnan,China,male,58.0,1
+Xinjiang,China,male,49.0,1
+Ningxia,China,male,33.0,1
+Tianjin,China,female,55.0,1
+Tianjin,China,female,79.0,1
+Tianjin,China,female,19.0,1
+Macau,China,female,58.0,1
+Macau,China,female,39.0,1
+Macau,China,female,21.0,1
+Shaanxi,China,female,30.0,1
+Shaanxi,China,female,64.0,1
+Shaanxi,China,male,44.0,1
+Shaanxi,China,female,70.0,1
+Shaanxi,China,female,52.0,1
+Shaanxi,China,female,32.0,1
+Shaanxi,China,male,33.0,1
+Tianjin,China,male,71.0,1
+Yunnan,China,male,31.0,1
+Yunnan,China,female,48.0,1
+Yunnan,China,female,19.0,1
+Yunnan,China,female,68.0,1
+Yunnan,China,male,71.0,1
+Beijing,China,male,35.0,1
+Beijing,China,female,4.0,1
+Beijing,China,male,38.0,1
+Beijing,China,female,69.0,1
+Tianjin,China,male,50.0,1
+Tianjin,China,male,78.0,1
+Tianjin,China,male,49.0,1
+Guizhou,China,male,34.0,1
+Yunnan,China,female,55.0,1
+Yunnan,China,female,36.0,1
+Yunnan,China,male,65.0,1
+Jiangxi,China,male,38.0,1
+Shaanxi,China,female,36.0,1
+Shaanxi,China,male,18.0,1
+Shaanxi,China,male,50.0,1
+Shaanxi,China,female,40.0,1
+Shaanxi,China,female,63.0,1
+Shaanxi,China,female,47.0,1
+Shaanxi,China,female,42.0,1
+Shaanxi,China,male,48.0,1
+Shaanxi,China,male,39.0,1
+Shaanxi,China,female,41.0,1
+Shaanxi,China,male,31.0,1
+Shaanxi,China,male,27.0,1
+Hubei,China,female,28.0,1
+Hubei,China,female,51.0,1
+Shandong,China,male,37.0,1
+Bordeaux,France,male,48.0,1
+Paris,France,male,31.0,1
+Paris,France,female,30.0,1
+Paris,France,male,80.0,1
+Paris,France,female,33.0,2
+Annecy,France,male,63.0,2
+Amiens,France,male,55.0,2
+Strasbourg,France,male,36.0,2
+Paris,France,male,60.0,2
+Annecy,France,female,60.0,2
+Nantes,France,female,58.0,2
+Montpellier,France,male,31.0,2
+Brest,France,male,72.0,2
+Lyon,France,male,50.0,2
+Annecy,France,female,35.0,2
+Nice,France,female,23.0,2
+Kanagawa,Japan,male,35.0,1
+Tokyo,Japan,male,45.0,1
+Tokyo,Japan,female,35.0,1
+Aichi Prefecture,Japan,male,45.0,1
+Aichi Prefecture,Japan,male,45.0,1
+Nara Prefecture,Japan,male,65.0,1
+Hokkaido,Japan,female,45.0,1
+Osaka Prefecture,Japan,female,45.0,1
+Tokyo,Japan,male,55.0,1
+Mie,Japan,male,55.0,1
+Japan,Japan,female,35.0,1
+Kyoto,Japan,female,25.0,1
+Haneda,Japan,female,25.0,1
+Japan,Japan,male,45.0,2
+Japan,Japan,male,45.0,2
+Japan,Japan,male,35.0,2
+Chiba Prefecture,Japan,female,35.0,2
+Chiba Prefecture,Japan,female,55.0,2
+Japan,Japan,male,55.0,2
+Chiba Prefecture,Japan,male,45.0,2
+Kyoto,Japan,male,25.0,2
+Japan,Japan,male,55.0,2
+Japan,Japan,male,25.0,2
+Japan,Japan,male,45.0,2
+Japan,Japan,male,55.0,2
+Kanagawa,Japan,female,85.0,2
+Tokyo,Japan,male,75.0,2
+Wakayama Prefecture,Japan,male,55.0,2
+Chiba Prefecture,Japan,male,25.0,2
+Japan,Japan,male,75.0,2
+Okinawa Prefecture,Japan,female,65.0,2
+Tokyo,Japan,female,55.0,2
+Tokyo,Japan,male,75.0,2
+Aichi Prefecture,Japan,male,65.0,2
+Hokkaido,Japan,male,55.0,2
+Kanagawa,Japan,male,35.0,2
+Wakayama Prefecture,Japan,male,55.0,2
+Wakayama Prefecture,Japan,female,55.0,2
+Wakayama Prefecture,Japan,male,65.0,2
+Aichi Prefecture,Japan,female,65.0,2
+Tokyo,Japan,female,65.0,2
+Tokyo,Japan,male,45.0,2
+Tokyo,Japan,male,65.0,2
+Tokyo,Japan,male,35.0,2
+Aichi Prefecture,Japan,male,65.0,2
+Nara Prefecture,Japan,male,65.0,2
+Aichi Prefecture,Japan,male,65.0,2
+Wakayama Prefecture,Japan,female,85.0,2
+Wakayama Prefecture,Japan,female,55.0,2
+Wakayama Prefecture,Japan,male,55.0,2
+Wakayama Prefecture,Japan,male,55.0,2
+Wakayama Prefecture,Japan,female,45.0,2
+Wakayama Prefecture,Japan,male,65.0,2
+Wakayama Prefecture,Japan,male,35.0,2
+Tokyo,Japan,male,85.0,2
+Japan,Japan,male,25.0,2
+Japan,Japan,male,55.0,2
+Aichi Prefecture,Japan,male,65.0,2
+Sagamihara,Japan,male,85.0,2
+Sagamihara,Japan,male,75.0,2
+Kanagawa,Japan,male,65.0,2
+Sapporo,Japan,male,45.0,2
+Hokkaido,Japan,male,65.0,2
+Okinawa Prefecture,Japan,male,65.0,2
+Tokyo,Japan,male,75.0,2
+Tokyo,Japan,female,75.0,2
+Tokyo,Japan,female,75.0,2
+Nagoya City,Japan,female,55.0,2
+Japan,Japan,male,55.0,2
+Fukuoka Prefecture,Japan,male,65.0,2
+Hokkaido,Japan,male,45.0,2
+Chiba Prefecture,Japan,female,75.0,2
+Okinawa Prefecture,Japan,male,85.0,2
+Nagoya City,Japan,male,85.0,2
+Sagamihara,Japan,male,85.0,2
+Fukuoka Prefecture,Japan,female,65.0,2
+Hokkaido,Japan,male,5.0,2
+Hokkaido,Japan,male,15.0,2
+Hokkaido,Japan,female,45.0,2
+Ishikawa,Japan,male,55.0,2
+Tokyo,Japan,female,55.0,2
+Tokyo,Japan,female,75.0,2
+Tokyo,Japan,female,55.0,2
+Chiba Prefecture,Japan,male,65.0,2
+Sagamihara,Japan,male,85.0,2
+Nagoya City,Japan,male,75.0,2
+Nagoya City,Japan,female,25.0,2
+Kumamoto City,Japan,female,25.0,2
+Kumamoto City,Japan,male,55.0,2
+Kumamoto Prefecture,Japan,male,65.0,2
+Wakayama Prefecture,Japan,male,45.0,2
+Chiba Prefecture,Japan,female,65.0,2
+Japan,Japan,female,55.0,2
+Hokkaido,Japan,female,75.0,2
+Hokkaido,Japan,male,85.0,2
+Hokkaido,Japan,male,75.0,2
+Hokkaido,Japan,female,55.0,2
+Hokkaido,Japan,male,65.0,2
+Hokkaido,Japan,female,55.0,2
+Hokkaido,Japan,female,15.0,2
+Hokkaido,Japan,female,55.0,2
+Tokyo,Japan,male,65.0,2
+Nagoya City,Japan,female,65.0,2
+Nagoya City,Japan,female,46.0,2
+Nagoya City,Japan,male,65.0,2
+Nagoya City,Japan,male,65.0,2
+Japan,Japan,female,65.0,2
+Sagamihara,Japan,male,55.0,2
+Hokkaido,Japan,male,55.0,2
+Sapporo,Japan,male,75.0,2
+Nagoya City,Japan,female,75.0,2
+Nagoya City,Japan,male,75.0,2
+Chiba Prefecture,Japan,male,45.0,2
+Hokkaido,Japan,male,35.0,2
+Hokkaido,Japan,female,65.0,2
+Hokkaido,Japan,male,25.0,2
+Hokkaido,Japan,male,75.0,2
+Hokkaido,Japan,female,35.0,2
+Hokkaido,Japan,male,85.0,2
+Hokkaido,Japan,female,45.0,2
+Hokkaido,Japan,female,25.0,2
+Ishikawa,Japan,female,55.0,2
+Sagamihara,Japan,male,55.0,2
+Ishikawa,Japan,male,65.0,2
+Sapporo,Japan,female,75.0,2
+Sapporo,Japan,male,55.0,2
+Hokkaido,Japan,female,25.0,2
+Hokkaido,Japan,male,55.0,2
+Kanagawa,Japan,male,55.0,2
+Tokyo,Japan,male,45.0,2
+Tokyo,Japan,male,55.0,2
+Tokyo,Japan,male,35.0,2
+Sagamihara,Japan,female,55.0,2
+Sagamihara,Japan,female,25.0,2
+Sagamihara,Japan,female,25.0,2
+Nagano Prefecture,Japan,male,65.0,2
+Kumamoto City,Japan,male,55.0,2
+Kumamoto City,Japan,female,65.0,2
+Sapporo,Japan,female,65.0,2
+Ishikawa,Japan,female,55.0,2
+Nagoya City,Japan,female,75.0,2
+Nagoya City,Japan,female,75.0,2
+Nagoya City,Japan,female,45.0,2
+Chiba Prefecture,Japan,male,55.0,2
+Chiba Prefecture,Japan,male,65.0,2
+Chiba Prefecture,Japan,male,75.0,2
+Hokkaido,Japan,male,25.0,2
+Hokkaido,Japan,female,25.0,2
+Hokkaido,Japan,male,75.0,2
+Hokkaido,Japan,female,75.0,2
+Hokkaido,Japan,female,75.0,2
+Hokkaido,Japan,male,45.0,2
+Kanagawa,Japan,male,65.0,2
+Osaka Prefecture,Japan,female,45.0,2
+Tokyo,Japan,male,85.0,2
+Tokyo,Japan,male,75.0,2
+Tokyo,Japan,male,75.0,2
+Nagoya City,Japan,male,55.0,2
+Nagoya City,Japan,male,65.0,2
+Nagoya City,Japan,male,75.0,2
+Nagoya City,Japan,male,75.0,2
+Nagoya City,Japan,female,75.0,2
+Gifu Prefecture,Japan,male,55.0,2
+Gifu Prefecture,Japan,female,55.0,2
+Ishikawa,Japan,male,55.0,2
+Kanagawa,Japan,male,55.0,2
+Tokyo,Japan,female,60.0,2
+Osaka Prefecture,Japan,male,45.0,2
+Hokkaido,Japan,male,55.0,2
+Hokkaido,Japan,male,55.0,2
+Hokkaido,Japan,male,35.0,2
+Hokkaido,Japan,male,75.0,2
+Hokkaido,Japan,male,65.0,2
+Hokkaido,Japan,male,45.0,2
+Hokkaido,Japan,male,45.0,2
+Hokkaido,Japan,male,5.0,2
+Hokkaido,Japan,male,35.0,2
+Hokkaido,Japan,male,5.0,2
+Hokkaido,Japan,male,85.0,2
+Hokkaido,Japan,male,35.0,2
+Hokkaido,Japan,male,85.0,2
+Hokkaido,Japan,male,65.0,2
+Hokkaido,Japan,female,45.0,2
+Nagoya City,Japan,female,65.0,2
+Nagoya City,Japan,male,65.0,2
+Johor,Malaysia,male,40.0,1
+Johor,Malaysia,female,65.0,1
+Johor,Malaysia,male,11.0,1
+Johor,Malaysia,male,2.0,1
+Langkawi,Malaysia,female,4.0,1
+Johor,Malaysia,female,36.0,1
+Johor,Malaysia,male,52.0,1
+Johor,Malaysia,female,49.0,1
+Malaysia,Malaysia,male,41.0,2
+Malaysia,Malaysia,male,63.0,2
+Malaysia,Malaysia,male,45.0,2
+Malaysia,Malaysia,male,9.0,2
+Malaysia,Malaysia,female,40.0,2
+Malaysia,Malaysia,female,37.0,2
+Johor,Malaysia,female,59.0,2
+Malaysia,Malaysia,female,67.0,2
+Malaysia,Malaysia,female,65.0,2
+Malaysia,Malaysia,male,31.0,2
+Malaysia,Malaysia,female,39.0,2
+Malaysia,Malaysia,male,27.0,2
+Malaysia,Malaysia,female,32.0,2
+Malaysia,Malaysia,female,83.0,2
+Malaysia,Malaysia,female,53.0,2
+Kathmandu,Nepal,male,32.0,1
+Singapore,Singapore,male,66.0,1
+Singapore,Singapore,female,53.0,1
+Singapore,Singapore,male,37.0,1
+Singapore,Singapore,male,36.0,1
+Singapore,Singapore,female,56.0,1
+Singapore,Singapore,male,56.0,1
+Singapore,Singapore,male,35.0,1
+Singapore,Singapore,female,56.0,1
+Singapore,Singapore,male,56.0,1
+Singapore,Singapore,male,56.0,1
+Singapore,Singapore,female,31.0,1
+Singapore,Singapore,female,37.0,1
+Singapore,Singapore,female,73.0,1
+Singapore,Singapore,male,31.0,1
+Singapore,Singapore,female,47.0,1
+Singapore,Singapore,male,38.0,1
+Singapore,Singapore,female,47.0,2
+Singapore,Singapore,female,31.0,2
+Singapore,Singapore,female,28.0,2
+Singapore,Singapore,female,48.0,2
+Singapore,Singapore,female,44.0,2
+Singapore,Singapore,female,32.0,2
+Singapore,Singapore,female,42.0,2
+Singapore,Singapore,male,0.5,2
+Singapore,Singapore,male,45.0,2
+Singapore,Singapore,male,41.0,2
+Singapore,Singapore,male,27.0,2
+Singapore,Singapore,male,53.0,2
+Singapore,Singapore,female,42.0,2
+Singapore,Singapore,female,39.0,2
+Singapore,Singapore,female,40.0,2
+Singapore,Singapore,male,64.0,2
+Singapore,Singapore,female,38.0,2
+Singapore,Singapore,male,53.0,2
+Singapore,Singapore,female,52.0,2
+Singapore,Singapore,male,51.0,2
+Singapore,Singapore,male,36.0,2
+Singapore,Singapore,male,71.0,2
+Singapore,Singapore,male,39.0,2
+Singapore,Singapore,male,54.0,2
+Singapore,Singapore,male,37.0,2
+Singapore,Singapore,female,2.0,2
+Singapore,Singapore,male,35.0,2
+Singapore,Singapore,male,39.0,2
+Singapore,Singapore,male,34.0,2
+Singapore,Singapore,male,46.0,2
+Singapore,Singapore,male,62.0,2
+Singapore,Singapore,male,48.0,2
+Singapore,Singapore,male,37.0,2
+Singapore,Singapore,male,54.0,2
+Singapore,Singapore,female,55.0,2
+Singapore,Singapore,male,30.0,2
+Singapore,Singapore,male,30.0,2
+Singapore,Singapore,male,26.0,2
+Singapore,Singapore,male,55.0,2
+Singapore,Singapore,male,61.0,2
+Singapore,Singapore,female,51.0,2
+Singapore,Singapore,male,57.0,2
+Singapore,Singapore,female,44.0,2
+Singapore,Singapore,female,54.0,2
+Singapore,Singapore,male,50.0,2
+Singapore,Singapore,female,61.0,2
+Singapore,Singapore,male,28.0,2
+Singapore,Singapore,female,56.0,2
+Singapore,Singapore,female,79.0,2
+Singapore,Singapore,male,26.0,2
+Singapore,Singapore,female,27.0,2
+Singapore,Singapore,male,25.0,2
+Singapore,Singapore,male,40.0,2
+Singapore,Singapore,male,43.0,2
+Singapore,Singapore,male,29.0,2
+Singapore,Singapore,female,71.0,2
+Singapore,Singapore,male,1.0,2
+Singapore,Singapore,male,35.0,2
+Singapore,Singapore,female,57.0,2
+Singapore,Singapore,female,35.0,2
+Singapore,Singapore,female,38.0,2
+Singapore,Singapore,male,50.0,2
+Singapore,Singapore,female,57.0,2
+Singapore,Singapore,male,54.0,2
+Singapore,Singapore,female,35.0,2
+Singapore,Singapore,male,36.0,2
+Singapore,Singapore,male,24.0,2
+Singapore,Singapore,male,32.0,2
+Singapore,Singapore,female,30.0,2
+Singapore,Singapore,male,41.0,2
+Singapore,Singapore,female,75.0,2
+Singapore,Singapore,female,58.0,2
+Singapore,Singapore,male,47.0,2
+Singapore,Singapore,male,38.0,2
+South Korea,South Korea,female,35.0,1
+South Korea,South Korea,male,55.0,1
+South Korea,South Korea,male,54.0,1
+South Korea,South Korea,male,55.0,1
+South Korea,South Korea,male,32.0,1
+South Korea,South Korea,male,56.0,1
+South Korea,South Korea,male,28.0,1
+South Korea,South Korea,female,62.0,1
+South Korea,South Korea,female,28.0,1
+South Korea,South Korea,female,52.0,1
+South Korea,South Korea,male,25.0,1
+South Korea,South Korea,male,48.0,2
+South Korea,South Korea,male,28.0,2
+Seoul,South Korea,female,40.0,2
+South Korea,South Korea,male,43.0,2
+South Korea,South Korea,female,42.0,2
+South Korea,South Korea,male,37.0,2
+South Korea,South Korea,female,21.0,2
+South Korea,South Korea,male,36.0,2
+South Korea,South Korea,female,41.0,2
+South Korea,South Korea,female,59.0,2
+South Korea,South Korea,male,46.0,2
+South Korea,South Korea,female,58.0,2
+South Korea,South Korea,male,28.0,2
+South Korea,South Korea,female,73.0,2
+South Korea,South Korea,male,51.0,2
+South Korea,South Korea,female,37.0,2
+South Korea,South Korea,female,30.0,2
+South Korea,South Korea,male,82.0,2
+South Korea,South Korea,female,68.0,2
+South Korea,South Korea,female,61.0,2
+South Korea,South Korea,female,11.0,2
+South Korea,South Korea,female,40.0,2
+South Korea,South Korea,male,24.0,2
+South Korea,South Korea,female,26.0,2
+South Korea,South Korea,female,48.0,2
+South Korea,South Korea,male,49.0,2
+South Korea,South Korea,female,57.0,2
+South Korea,South Korea,female,61.0,2
+South Korea,South Korea,male,77.0,2
+South Korea,South Korea,female,69.0,2
+South Korea,South Korea,female,29.0,2
+South Korea,South Korea,female,58.0,2
+South Korea,South Korea,female,46.0,2
+South Korea,South Korea,female,54.0,2
+South Korea,South Korea,male,28.0,2
+South Korea,South Korea,female,63.0,2
+South Korea,South Korea,female,72.0,2
+South Korea,South Korea,male,58.0,2
+South Korea,South Korea,male,76.0,2
+South Korea,South Korea,female,61.0,2
+South Korea,South Korea,male,24.0,2
+South Korea,South Korea,female,38.0,2
+South Korea,South Korea,male,57.0,2
+South Korea,South Korea,male,59.0,2
+South Korea,South Korea,male,75.0,2
+South Korea,South Korea,male,30.0,2
+South Korea,South Korea,female,26.0,2
+South Korea,South Korea,female,34.0,2
+South Korea,South Korea,female,59.0,2
+South Korea,South Korea,female,58.0,2
+South Korea,South Korea,male,60.0,2
+South Korea,South Korea,female,52.0,2
+South Korea,South Korea,female,59.0,2
+South Korea,South Korea,female,50.0,2
+South Korea,South Korea,male,22.0,2
+South Korea,South Korea,female,30.0,2
+South Korea,South Korea,female,56.0,2
+South Korea,South Korea,male,29.0,2
+South Korea,South Korea,female,48.0,2
+South Korea,South Korea,female,56.0,2
+South Korea,South Korea,female,39.0,2
+South Korea,South Korea,female,20.0,2
+South Korea,South Korea,male,49.0,2
+South Korea,South Korea,female,23.0,2
+South Korea,South Korea,male,36.0,2
+South Korea,South Korea,female,57.0,2
+South Korea,South Korea,male,55.0,2
+South Korea,South Korea,female,22.0,2
+South Korea,South Korea,female,34.0,2
+South Korea,South Korea,female,65.0,2
+South Korea,South Korea,male,64.0,2
+South Korea,South Korea,male,67.0,2
+South Korea,South Korea,male,74.0,2
+Seoul,South Korea,male,35.0,2
+South Korea,South Korea,male,62.0,2
+South Korea,South Korea,male,58.0,2
+South Korea,South Korea,male,62.0,2
+South Korea,South Korea,male,41.0,2
+South Korea,South Korea,male,36.0,2
+South Korea,South Korea,female,69.0,2
+South Korea,South Korea,male,75.0,2
+Taiwan,Taiwan,female,55.0,1
+Taiwan,Taiwan,female,55.0,1
+Taiwan,Taiwan,male,55.0,1
+Taiwan,Taiwan,female,50.0,1
+Taiwan,Taiwan,female,50.0,1
+Taiwan,Taiwan,female,70.0,1
+Taiwan,Taiwan,female,70.0,1
+Taiwan,Taiwan,male,55.0,1
+Taiwan,Taiwan,male,55.0,2
+Taiwan,Taiwan,male,45.0,2
+Taiwan,Taiwan,female,25.0,2
+Taiwan,Taiwan,male,55.0,2
+Taiwan,Taiwan,female,55.0,2
+Taiwan,Taiwan,female,45.0,2
+Taiwan,Taiwan,male,25.0,2
+Taiwan,Taiwan,male,25.0,2
+Taiwan,Taiwan,male,65.0,2
+Taiwan,Taiwan,male,55.0,2
+Taiwan,Taiwan,female,85.0,2
+Taiwan,Taiwan,male,35.0,2
+Taiwan,Taiwan,female,65.0,2
+Taiwan,Taiwan,female,60.0,2
+Taiwan,Taiwan,female,45.0,2
+Taiwan,Taiwan,female,25.0,2
+Taiwan,Taiwan,male,85.0,2
+Taiwan,Taiwan,male,55.0,2
+Taiwan,Taiwan,male,45.0,2
+Taiwan,Taiwan,female,75.0,2
+Taiwan,Taiwan,female,35.0,2
+Taiwan,Taiwan,male,35.0,2
+Taiwan,Taiwan,female,55.0,2
+Thailand,Thailand,female,61.0,1
+Thailand,Thailand,female,74.0,1
+Thailand,Thailand,male,68.0,1
+Thailand,Thailand,female,73.0,1
+Thailand,Thailand,female,33.0,1
+Thailand,Thailand,female,57.0,1
+Thailand,Thailand,female,73.0,1
+Thailand,Thailand,male,50.0,1
+Thailand,Thailand,male,70.0,2
+Thailand,Thailand,female,54.0,2
+Thailand,Thailand,female,35.0,2
+Thailand,Thailand,female,60.0,2
+Thailand,Thailand,female,31.0,2
+Thailand,Thailand,male,29.0,2
+Thailand,Thailand,male,8.0,2
+Thailand,Thailand,male,25.0,2
+Washington,USA,male,35.0,1
+Illinois,USA,female,61.0,1
+Illinois,USA,male,65.0,1
+Massachusetts,USA,male,25.0,1
+California,USA,male,57.0,2
+California,USA,female,57.0,2
+Ho Chi Minh City,Vietnam,male,66.0,1
+Ho Chi Minh City,Vietnam,male,28.0,1
+Vinh Phuc,Vietnam,male,30.0,2
+Vinh Phuc,Vietnam,female,42.0,2
+Vinh Phuc,Vietnam,female,16.0,2
+Vinh Phuc,Vietnam,female,29.0,2
+Vinh Phuc,Vietnam,female,55.0,2
+Vinh Phuc,Vietnam,male,50.0,2
+NSW,Australia,male,35.0,1
+NSW,Australia,male,43.0,1
+NSW,Australia,male,53.0,1
+Victoria,Australia,male,55.0,1
+NSW,Australia,female,21.0,1
+Queensland,Australia,male,44.0,1
+Victoria,Australia,male,65.0,1
+Victoria,Australia,female,45.0,1
+Queensland,Australia,female,42.0,1
+South Australia,Australia,male,60.0,2
+South Australia,Australia,female,60.0,2
+Victoria,Australia,female,25.0,2
+Queensland,Australia,male,8.0,2
+Queensland,Australia,male,37.0,2
+Queensland,Australia,female,37.0,2
+Toronto,Canada,male,56.0,1
+Toronto,Canada,female,55.0,1
+Vancouver,Canada,male,45.0,1
+Toronto,Canada,female,25.0,2
+Vancouver,Canada,female,55.0,2
+Vancouver,Canada,male,35.0,2
+Vancouver,Canada,female,35.0,2
+Vancouver,Canada,female,35.0,2
+Vancouver,Canada,female,35.0,2
+Toronto,Canada,female,25.0,2
+Vancouver,Canada,male,45.0,2
+Toronto,Canada,female,65.0,2
+Preah Sihanouk Province,Cambodia,male,60.0,1
+Sri Lanka,Sri Lanka,female,40.0,1
+Bavaria,Germany,male,33.0,1
+Bavaria,Germany,male,52.0,1
+Bavaria,Germany,male,33.0,2
+Bavaria,Germany,male,58.0,2
+Bavaria,Germany,male,49.0,2
+Baden-Wuerttemberg,Germany,male,25.0,2
+Tubingen,Germany,male,60.0,2
+Tubingen,Germany,female,24.0,2
+Baden-Wuerttemberg,Germany,male,32.0,2
+North Rhine-Westphalia,Germany,male,47.0,2
+North Rhine-Westphalia,Germany,female,46.0,2
+North Rhine-Westphalia,Germany,male,41.0,2
+Hesse,Germany,male,31.0,2
+Baden-Wuerttemberg,Germany,male,32.0,2
+UAE,UAE,female,73.0,1
+UAE,UAE,female,36.0,1
+UAE,UAE,male,41.0,1
+UAE,UAE,male,8.0,1
+UAE,UAE,male,37.0,2
+UAE,UAE,male,70.0,2
+UAE,UAE,female,64.0,2
+Hong Kong,Hong Kong,male,39.0,1
+Hong Kong,Hong Kong,male,56.0,1
+Hong Kong,Hong Kong,female,62.0,1
+Hong Kong,Hong Kong,female,62.0,1
+Hong Kong,Hong Kong,male,63.0,1
+Hong Kong,Hong Kong,male,47.0,1
+Hong Kong,Hong Kong,female,68.0,1
+Hong Kong,Hong Kong,male,64.0,1
+Hong Kong,Hong Kong,female,73.0,1
+Hong Kong,Hong Kong,male,72.0,1
+Yau Ma Tei,Hong Kong,female,37.0,1
+Tsing Yi,Hong Kong,male,75.0,1
+Kowloon,Hong Kong,male,39.0,1
+Hong Kong,Hong Kong,male,80.0,2
+Kowloon,Hong Kong,female,72.0,2
+Kowloon,Hong Kong,female,64.0,2
+Hong Kong,Hong Kong,male,60.0,2
+Kowloon,Hong Kong,male,25.0,2
+Kwun Tong,Hong Kong,female,56.0,2
+Kwun Tong,Hong Kong,female,28.0,2
+Kwai Chung,Hong Kong,male,56.0,2
+Kwai Chung,Hong Kong,female,55.0,2
+Hong Kong,Hong Kong,female,63.0,2
+Hong Kong,Hong Kong,female,65.0,2
+Zhuhai,Hong Kong,male,58.0,2
+Fo Tan,Hong Kong,male,42.0,2
+Wan Chai,Hong Kong,male,24.0,2
+Ngau Chi Wan,Hong Kong,male,70.0,2
+Hong Kong,Hong Kong,male,68.0,2
+Hong Kong,Hong Kong,female,57.0,2
+Hong Kong,Hong Kong,female,91.0,2
+Hong Kong,Hong Kong,female,51.0,2
+Hong Kong,Hong Kong,female,25.0,2
+Hong Kong,Hong Kong,male,22.0,2
+Hong Kong,Hong Kong,female,50.0,2
+Hong Kong,Hong Kong,male,23.0,2
+Hong Kong,Hong Kong,female,55.0,2
+Hong Kong,Hong Kong,male,52.0,2
+Hong Kong,Hong Kong,male,69.0,2
+Hong Kong,Hong Kong,female,63.0,2
+Hong Kong,Hong Kong,female,86.0,2
+Hong Kong,Hong Kong,female,62.0,2
+Hong Kong,Hong Kong,male,59.0,2
+Hong Kong,Hong Kong,female,60.0,2
+Hong Kong,Hong Kong,male,71.0,2
+Hong Kong,Hong Kong,male,37.0,2
+Hong Kong,Hong Kong,male,66.0,2
+Hong Kong,Hong Kong,female,37.0,2
+Hong Kong,Hong Kong,male,75.0,2
+Hong Kong,Hong Kong,male,51.0,2
+Hong Kong,Hong Kong,male,43.0,2
+Hong Kong,Hong Kong,female,67.0,2
+Hong Kong,Hong Kong,male,37.0,2
+Hong Kong,Hong Kong,female,41.0,2
+Hong Kong,Hong Kong,male,70.0,2
+Hong Kong,Hong Kong,male,54.0,2
+Hong Kong,Hong Kong,male,69.0,2
+Hong Kong,Hong Kong,male,45.0,2
+Hong Kong,Hong Kong,female,46.0,2
+Hong Kong,Hong Kong,female,32.0,2
+Hong Kong,Hong Kong,male,58.0,2
+Hong Kong,Hong Kong,female,83.0,2
+Hong Kong,Hong Kong,female,83.0,2
+Hong Kong,Hong Kong,male,68.0,2
+Hong Kong,Hong Kong,female,70.0,2
+Hong Kong,Hong Kong,male,75.0,2
+Hong Kong,Hong Kong,female,38.0,2
+Hong Kong,Hong Kong,male,58.0,2
+Hong Kong,Hong Kong,male,48.0,2
+Hong Kong,Hong Kong,female,96.0,2
+Hong Kong,Hong Kong,male,68.0,2
+Hong Kong,Hong Kong,male,62.0,2
+Hong Kong,Hong Kong,female,80.0,2
+Hong Kong,Hong Kong,female,76.0,2
+Hong Kong,Hong Kong,male,35.0,2
+Hong Kong,Hong Kong,female,57.0,2
+Hong Kong,Hong Kong,female,68.0,2
+Hong Kong,Hong Kong,female,59.0,2
+Hong Kong,Hong Kong,female,58.0,2
+Hong Kong,Hong Kong,male,57.0,2
+Hong Kong,Hong Kong,female,57.0,2
+Hong Kong,Hong Kong,male,33.0,2
+Hong Kong,Hong Kong,female,55.0,2
+Hong Kong,Hong Kong,male,24.0,2
+Hong Kong,Hong Kong,female,60.0,2
+Hong Kong,Hong Kong,female,49.0,2
+Hong Kong,Hong Kong,female,21.0,2
+Hong Kong,Hong Kong,male,16.0,2
+Hong Kong,Hong Kong,male,80.0,2
+Hong Kong,Hong Kong,female,29.0,2
+Hong Kong,Hong Kong,male,26.0,2
+Hong Kong,Hong Kong,female,70.0,2
+Hong Kong,Hong Kong,female,89.0,2
+Rome,Italy,male,35.0,2
+London,UK,male,53.0,2
+Manila,Phillipines,male,44.0,2
+Manila,Phillipines,female,38.0,2
+Phillipines,Phillipines,female,60.0,2
+Lapland,Finland,female,32.0,1
+Tenerife,Spain,male,69.0,2
+Barcelona,Spain,female,36.0,2
+Castellon,Spain,male,31.0,2
+Barcelona,Spain,male,22.0,2
+Andalusia,Spain,male,62.0,2
+Valencia,Spain,male,44.0,2
+Barcelona,Spain,female,22.0,2
+Castile and Leon,Spain,male,30.0,2
+Andalusia,Spain,male,28.0,2
+Andalusia,Spain,male,42.0,2
+Andalusia,Spain,male,53.0,2
+Andalusia,Spain,male,55.0,2
+Andalusia,Spain,female,25.0,2
+Andalusia,Spain,male,58.0,2
+Zaragoza,Spain,female,27.0,2
+Jonkoping,Sweden,female,25.0,1
+Lebanon,Lebanon,female,45.0,2
+Bern,Switzerland,male,70.0,2
